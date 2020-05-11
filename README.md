@@ -5,7 +5,8 @@
 ```bash
 wget -N --no-check-certificate https://github.com/veip007/oos/raw/master/oss.sh && chmod +x oss.sh &&  "https://www.baidu.com" &  #指定url
 ```
-```bash
+```bash 
+#设定下载线程
 wget -N --no-check-certificate https://github.com/veip007/oos/raw/master/oss.sh && chmod +x oss.sh &&  "https://www.baidu.com" 8 &   #指定url和8线程
 ```
 
