@@ -28,3 +28,9 @@ done
 
 reboot重启来关闭脚本
 ```
+
+清理bash
+```bash
+pkill -f bash
+```
+
